@@ -1,0 +1,5 @@
+com/example/productosapi/model/Producto.class
+com/example/productosapi/service/FirebaseService$1.class
+com/example/productosapi/ProductosApiApplication.class
+com/example/productosapi/service/FirebaseService.class
+com/example/productosapi/controller/ProductoController.class
